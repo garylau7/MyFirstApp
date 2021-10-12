@@ -1,4 +1,4 @@
 this is a readme.
+this is by git init. 
 this is 2nd line.
 ok let's see how it goes.
-this is by git clone. 
